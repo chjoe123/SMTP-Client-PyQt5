@@ -12,4 +12,4 @@ pip install pyqt5-tools
 python main.py
 ```
 
-![]()
+![](https://raw.githubusercontent.com/chjoe123/SMTP-Client-PyQt5/master/screenshot/screenshot.PNG)
